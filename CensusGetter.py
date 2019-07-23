@@ -2,7 +2,7 @@
 """
 Created on Tue Aug 14 17:24:08 2018
 
-@author: Qeyto
+@author: <Jasper >
 """
 acs_shape = "C:\\Users\\Qeyto\\Dropbox\\Definitive Math381_final_project\\ACS_16_5yr_SHAPE\\" #ACS of 
 CENSUS_FILE = "C:\\Users\\Qeyto\\Dropbox\\Definitive Math381_final_project\\ACS_16_5YR_B01003\\ACS_16_5YR_B01003_with_ann.csv"
